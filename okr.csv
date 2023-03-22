@@ -1,0 +1,5 @@
+id_obj,id_time,time,setor,texto,responsavel,ano,ciclo,data
+1,1,economica,tesouraria,novo obj teste,priscila,2023,1,2023-03-01
+2,1,economica,tesouraria,novo obj teste,priscila,2023,2,2023-03-03
+3,1,economica,TI,Terminar o app de okr,vinicius,2023,1,2023-03-06
+4,0,economica,da vida,formar economista,vinicius,2023,2,2023-03-20

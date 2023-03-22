@@ -1,0 +1,13 @@
+id_kr,id_obj,texto,tipo,un_medida,inicial,valor_alterar,meta,status,data,atual
+3,1,kr teste 1,m,p,0.0,100.0,100.0,novo,2023-03-01,20.0
+4,1,kr teste 2,d,a,100.0,20.0,80.0,iniciado,2023-03-01,95.0
+5,1,kr teste 3,a,p,10.0,40.0,14.0,concluido,2023-03-01,14.0
+6,2,kr teste 4,m,p,0.0,100.0,100.0,novo,2023-03-03,20.0
+7,2,kr teste 5,d,a,100.0,20.0,80.0,iniciado,2023-03-03,95.0
+8,2,kr teste 6,a,p,10.0,40.0,14.0,concluido,2023-03-03,14.0
+9,3,terminar programa em CLI,m,a,0,4,4,novo,2023-03-06,
+10,3,transportar o app para webapp,m,a,0.0,5.0,0.0,novo,2023-03-06,
+11,3,lançar o webapp,m,a,0.0,1.0,1.0,novo,2023-03-06,
+12,4,concluir todas as 3 disciplinas aprovado,a,a,0.0,6.0,6.0,novo,2023-03-20,1
+13,4,ter nota acima de 7 nas 3 disciplinas,a,a,0.0,7.0,7.0,novo,2023-03-20,0.0
+14,4,entregar o projeto de tcc,a,a,4.0,8.0,12.0,novo,2023-03-20,
